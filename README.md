@@ -5,4 +5,4 @@ A next-gen clean modern web proxy inspired by the UI design of arc. Has vertical
 
 Coming soon
 
-A UI demo is available at https://v0-sad-seven.vercel.app
+A UI demo is available at https://quantum-ui-demo.vercel.app
