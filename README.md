@@ -4,3 +4,5 @@
 A next-gen clean modern web proxy inspired by the UI design of arc. Has vertical tabs.
 
 Coming soon
+
+A UI demo is available ad https://v0-sad-seven.vercel.app
